@@ -1,0 +1,3 @@
+/home/yyanga/snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yyanga/snake/cmake-build-debug/CMakeFiles/snakeprogram.dir
+/home/yyanga/snake/cmake-build-debug/CMakeFiles/edit_cache.dir
